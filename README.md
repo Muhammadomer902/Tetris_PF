@@ -1,4 +1,4 @@
-# Tetris_ProgrammingFundamental_PF
+# Tetris
 Tetris Game using concept of Programming Fundamental(PF) and Simple and Fast Multimedia Library(SFML) Graphics.
 There is a menu from where you can select the level or quit game.
 up arrow key to rotate object.
